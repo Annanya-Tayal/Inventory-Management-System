@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 import com.customer.CustomerThread;
 import com.manager.ManagerThread;
 
