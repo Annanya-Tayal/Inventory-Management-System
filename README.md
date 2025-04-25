@@ -22,5 +22,9 @@ This is a Java + JavaFX-based Inventory Management System designed to track, man
 - **IDE**: IntelliJ / Eclipse
 - **Build Tool**: (if any) Maven / Gradle *(optional - update if applicable)*
 
+##  Contributors
 
+- Brendan Badhe  
+- Annanya Tayal
+- Aashray Gupta
 
